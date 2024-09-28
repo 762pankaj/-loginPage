@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(242, 238, 233);
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    /* margin: 20px 0; */
+    /* text-decoration: none; */
+    margin: 0;
+
+}
+
+.home-image {
+    width: 90%; /* Make the image span half width */
+    height: 90%; /* Maintain aspect ratio */
+    /* padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    padding-top: 100px; */
+    border-radius: 15px;
+    /* padding-top: 100px; */
+    margin: 50px 50px 50px 50px;
+    /* object-fit: cover; */
+    /* object-position: right; Adjust to show the right half of the image */
+}
+
+

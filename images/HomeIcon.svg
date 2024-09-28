@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="50px" viewBox="0 0 58 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Prequalify-Home-Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mortgage-Segment" transform="translate(-527.000000, -1287.000000)" stroke-width="2">
+            <g id="Group-4" transform="translate(0.000000, 700.000000)">
+                <g id="Icons-2" transform="translate(0.000000, 536.000000)">
+                    <g id="Group-7-Copy" transform="translate(517.000000, 37.000000)">
+                        <g id="Prequalify-Home-Icon" transform="translate(11.000000, 15.000000)">
+                            <polyline id="Shape" stroke="#767676" stroke-linecap="round" stroke-linejoin="round" points="55.3127273 24.2836364 27.6563636 -1.77635684e-15 -1.3500312e-13 24.2836364"></polyline>
+                            <polyline id="Stroke-8" stroke="#88BB00" stroke-linecap="round" points="21 26.8140226 26.095729 32.4285714 37 21"></polyline>
+                            <path d="M48.2222222,18 L48.2222222,45.2730252 C48.2222222,46.48902 47.2594952,47.4444444 46.0342062,47.4444444 L35.7942911,47.4444444 C34.5690021,47.4444444 20.6532201,47.4444444 19.4279311,47.4444444 L9.18801604,47.4444444 C7.96272706,47.4444444 7,46.48902 7,45.2730252 L7,18" id="Shape" stroke="#767676"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
